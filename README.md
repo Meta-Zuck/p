@@ -1,4 +1,4 @@
-h1 align="center"> Hello Word :) </h1>
+ Hello World :) </h1>
 <p align="center">
 •●•
 </p>
